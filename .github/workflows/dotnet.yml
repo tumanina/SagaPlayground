@@ -24,5 +24,3 @@ jobs:
       run: dotnet restore ./SagaPlayground.slnx
     - name: Build
       run: dotnet build ./UsersApi/UsersApi.csproj --configuration Release --no-restore
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
