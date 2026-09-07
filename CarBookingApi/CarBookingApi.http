@@ -1,0 +1,6 @@
+@CarBookingApi_HostAddress = http://localhost:5011
+
+GET {{CarBookingApi_HostAddress}}/booking/
+Accept: application/json
+
+###

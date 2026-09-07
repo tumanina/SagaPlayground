@@ -1,7 +1,9 @@
 <Solution>
+  <Project Path="CarBookingApi/CarBookingApi.csproj" Id="b9653200-2406-4e5f-9582-d285a7b944d8" />
   <Project Path="docker-compose.dcproj">
     <Build />
   </Project>
-  <Project Path="UsersApi/UsersApi.csproj" />
+  <Project Path="FlightBookingApi/FlightBookingApi.csproj" />
+  <Project Path="HotelBookingApi/HotelBookingApi.csproj" Id="63914752-b795-4598-86a3-5d6c8c693540" />
   <Project Path="SagaOrchestrator.Database/SagaOrchestrator.Database.csproj" Id="bfb7b45f-a439-4f36-86ce-e10bc7b17c48" />
 </Solution>
