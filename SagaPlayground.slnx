@@ -3,4 +3,5 @@
     <Build />
   </Project>
   <Project Path="UsersApi/UsersApi.csproj" />
+  <Project Path="SagaOrchestrator.Database/SagaOrchestrator.Database.csproj" Id="bfb7b45f-a439-4f36-86ce-e10bc7b17c48" />
 </Solution>

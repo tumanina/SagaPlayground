@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Saga.Orchestrator.Database": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
